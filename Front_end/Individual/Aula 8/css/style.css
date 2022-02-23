@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital@1&display=swap');
+body {
+    font-family: 'Roboto Serif', sans-serif;
+    background-color:#131313;
+}
+main{
+    width: 70%;
+    margin-left:20%;
+}
+h1{
+    color: white;
+}
+.media-picture{
+    background-image: url("../img/homem-aranha.jpg");
+    background-size: 90%;
+    background-repeat: no-repeat;
+}
+.review-score{
+    color:white;
+    background-color: #e6bd09;
+    padding: 12px;
+}
+h2{
+    color: steelblue;
+}
+p{
+    color: #bdbdbd;
+    width: 70%;
+}
+a{
+    color: yellow;
+}
